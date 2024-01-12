@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 35f38b51-6146-4709-a252-3984e0380061
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: kr
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - CreatePlayer
+  - MakeHunter
+  - MakeWitch
+  - ReadyGame
+  - ChatRPC
+  - EnterPlayer
+  - ExitPlayer
+  - AddReadyCount
+  - ChangeReady
+  - DisplayTime
+  - StartTimer
+  - TimerCoroution
+  - ChangeFalse
+  - ChangeTrue
+  - ChangeBool
+  - PushGameStart
+  - SetStart
+  - RandomNum
+  - AddWCount
+  - OnCollisionEnter
+  - ThrowKnife
+  - MasterReceiveRPC
+  - OtherReceivePlayerInfoRPC
+  - StartSyncRPC
+  - BoolHunter
+  - ApplyRandom
+  - MasterRandom
+  - TakeDamage
+  - AssignRandNum
+  - DieWitch
+  - SetIsWitch
+  - WinH
+  - WinW
+  - SetOver
+  - ActiveFalseModel
+  - CancelMetamorphosis
+  - MetamorphosisToObj
+  - PossesionToObj
+  - UpdateCustom
+  - RpcClearBuffer
+  - RpcNonServerOwnedTeleportFromServer
+  - RpcTeleport
+  - SetObjs
+  - CancelPlease
+  - MetamorphosisPlease
+  - PossesionPlease
+  - SetModelActive
+  - SetObjsPlease
+  - TakeDamagePlease
+  - MetamorEffect
+  - PossesionEffect
+  - FootfallEffect
+  - MetamorphosisInServer
+  - PossesionInServer
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Witch
+  - Hunter
+  - Ground
+  - ChangeableObject
+  - Projectile
+  - Bullet
+  - Missile
+  - Animal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ChangeableObjects
+  - Witch
+  - Hunter
+  - Projectile
+  - Ground
+  - Wall
+  - Boarder
+  - PostProcess
+  - Block
+  - HunterSkill
+  - WitchSkill
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: testUI
+    uniqueID: 1361384821
+    locked: 0
